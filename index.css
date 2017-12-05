@@ -1,0 +1,25 @@
+h1 {
+    background-color: skyblue;
+    background-
+    color: white;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+body {
+    background-image: url(http://postpartum.org/wordpress/wp-content/uploads/2014/11/dandelion-flower-wallpaper-hd-3.jpg);
+    color: black;
+    font-size: 1.5em;
+}
+
+.my-h2{background-color: skyblue;
+       color: white;
+       font-size: 1em;
+}
+
+.strong{color: white;
+        background-color: skyblue;
+        font-size: 1.5em;
+
+}
+
