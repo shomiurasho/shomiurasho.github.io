@@ -23,3 +23,23 @@ body {
 
 }
 
+.feature{
+        border: 2px solid red;
+        font-size: 1em;
+        color: white;
+        background-color: orange;
+        padding: 2px;
+    
+        
+        transition-property: 
+        transition-duration: 1000ms;
+        transition-timing-function: linear;
+}
+
+.feature:hover{
+         font-size: 5em;
+         color:moccasin;
+         width:40px;
+         transform: 
+
+}
