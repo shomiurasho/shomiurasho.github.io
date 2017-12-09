@@ -1,15 +1,29 @@
-h1 {
-    background-color: skyblue;
-    background-
-    color: white;
-    font-family: monospace;
-    font-size: 2em;
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+
+@media(min-width: 800px) {
+     body{
+         background-color: green;
+     }
+}
+
+@media(max-width: 799px) {
+    body{
+        background-color: brown;
+    }
 }
 
 body {
     background-image: url(http://postpartum.org/wordpress/wp-content/uploads/2014/11/dandelion-flower-wallpaper-hd-3.jpg);
     color: black;
     font-size: 1.5em;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+h1 {
+    background-color: skyblue;
+    background-
+    color: white;
+    font-size: 2em;
 }
 
 .my-h2{background-color: skyblue;
